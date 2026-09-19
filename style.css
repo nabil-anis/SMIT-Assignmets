@@ -1,0 +1,223 @@
+.dice-container {
+
+    width: 100%;
+
+    padding: 10px;
+
+}
+
+.dice {
+
+    width: 28%;
+
+    height: 250px;
+
+    background-color: #f7f7f7;
+
+    border-radius: 20px;
+
+    display: inline-block;
+
+    margin: 10px;
+
+    position: relative;
+
+}
+
+.ball {
+
+    width: 50px;
+
+    height: 50px;
+
+    background-color: black;
+
+    border-radius: 100%;
+
+    position: absolute;
+
+}
+
+
+/* Dice One */
+
+.dice-one .ball-one {
+
+    top: 100px;
+
+    left: 50%;
+
+}
+
+
+/* Dice Two */
+
+.dice-two .ball-one {
+
+    top: 30px;
+
+    left: 30px;
+
+}
+
+.dice-two .ball-two {
+    bottom: 30px;
+    right: 30px;
+
+}
+
+
+/* Dice Three */
+
+.dice-three .ball-one {
+
+    top: 30px;
+
+    left: 30px;
+
+}
+
+.dice-three .ball-two {
+
+    top: 100px;
+
+    left: 50%;
+
+}
+
+.dice-three .ball-three {
+
+    bottom: 30px;
+
+    right: 30px;
+
+}
+
+
+/* Dice Four */
+
+.dice-four .ball-one {
+
+    top: 30px;
+
+    left: 30px;
+
+}
+
+.dice-four .ball-two {
+
+    top: 30px;
+
+    right: 30px;
+
+}
+
+.dice-four .ball-three {
+
+    bottom: 30px;
+
+    left: 30px;
+
+}
+
+.dice-four .ball-four {
+
+    bottom: 30px;
+
+    right: 30px;
+
+}
+
+
+/* Dice Five */
+
+.dice-five .ball-one {
+
+    top: 30px;
+
+    left: 30px;
+
+}
+
+.dice-five .ball-two {
+
+    top: 30px;
+
+    right: 30px;
+
+}
+
+.dice-five .ball-three {
+
+    top: 100px;
+
+    left: 50%;
+
+}
+
+.dice-five .ball-four {
+
+    bottom: 30px;
+
+    left: 30px;
+
+}
+
+.dice-five .ball-five {
+
+    bottom: 30px;
+
+    right: 30px;
+
+}
+
+
+/* Dice Six */
+
+.dice-six .ball-one {
+
+    top: 30px;
+
+    left: 30px;
+
+}
+
+.dice-six .ball-two {
+
+    top: 30px;
+
+    right: 30px;
+
+}
+
+.dice-six .ball-three {
+
+    top: 100px;
+
+    left: 30px;
+
+}
+
+.dice-six .ball-four {
+
+    top: 100px;
+
+    right: 30px;
+
+}
+
+.dice-six .ball-five {
+
+    bottom: 30px;
+
+    left: 30px;
+
+}
+
+.dice-six .ball-six {
+
+    bottom: 30px;
+
+    right: 30px;
+
+}
